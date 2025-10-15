@@ -1,12 +1,5 @@
-```
-<!-- this is html code -->
+- [ ] read the book
+- [ ] make a draw about the book
+- [ ] chat with friends
 
-<html>
-<body>
-<h1>this is the header</h1>
-</body>
-</html>
-
-
-```
 
